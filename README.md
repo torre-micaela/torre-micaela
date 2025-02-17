@@ -12,7 +12,7 @@ Soy una **Frontend Developer** con experiencia en **React, TypeScript y microfro
 - **Microfrontends**
 ## 🌍 Un poco sobre mí
 
-📍 Viviendo en Europa 🌍 | Trabajando en proyectos frontend 💻 | Explorando nuevas tecnologías 🚀
+📍 Viviendo en Argentina 🌍 | Trabajando en proyectos frontend 💻 | Explorando nuevas tecnologías 🚀
 
 ## 📫 ¡Hablemos!
 
